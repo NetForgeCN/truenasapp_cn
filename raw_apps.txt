@@ -1,0 +1,3179 @@
+community
+1Password Connect
+52
+1.1.18
+Securely access your 1Password items and vaults in your company's apps and cloud infrastructure.
+
+community
+2FAuth
+183
+1.3.27
+2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop.
+
+community
+3proxy
+164
+1.1.23
+3proxy is a powerful and lightweight HTTP/SOCKS proxy server.
+
+community
+AE NetScope
+43
+1.0.41
+AE NetScope is an open source LAN inventory and sysadmin network documentation web app.
+
+community
+AFFiNE
+866
+1.2.64
+AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use...
+
+community
+AIOStreams
+153
+1.0.54
+AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
+
+stable
+AIStor™
+462
+1.1.30
+The Object Store for AI Data Infrastructure
+
+enterprise
+AIStor™
+1
+1.0.7
+AIStor™ delivers unmatched enterprise performance, scale, agility and economics for AI data, agentic computing, and analytics. This is the successor t...
+
+community
+Ablago
+1.0.6
+Ablago - document filing for home and small businesses. Self-hosted, for contracts, insurance, tax and all paperwork in folders, with full-text search...
+
+community
+Actual Budget
+3523
+1.4.27
+Actual Budget is a super fast and privacy-focused app for managing your finances.
+
+community
+ActuallyFreeCD Server
+22
+1.0.11
+Web-based audio CD ripping server with MusicBrainz metadata, AccurateRip verification, FLAC/MP3 encoding, artwork, logging, and optical-drive control.
+
+community
+AdGuard Home
+10478
+1.3.24
+Free and open source, powerful network-wide ads & trackers blocking DNS server.
+
+community
+AdventureLog
+385
+1.3.54
+Self-hostable travel tracker and trip planner.
+
+community
+Agent Hub
+1.0.2
+Watch the Claude Code agents running on your PCs live, from one dashboard on your NAS.
+
+community
+Airwave
+1.0.26
+Turn your Plex library into custom, always-on live TV channels, watchable on native apps for every screen.
+
+community
+AniLink-Downloader
+1.1.4
+Download and unpack archives from hoster links via Debrid-Link
+
+community
+Anki Sync Server
+77
+1.2.18
+Self-hosted Anki sync server with multi-user support, automated backups, and monitoring. Built from official Anki source.
+
+community
+Anything LLM
+768
+1.1.29
+Anything-LLM is the all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.
+
+community
+Arcane
+902
+1.0.117
+Modern Docker Management, Designed for Everyone
+
+community
+Arcane Agent
+1.0.2
+Agent that connects this system's Docker to a remote Arcane manager
+
+community
+ArchiSteamFarm
+339
+1.1.41
+ArchiSteamFarm is a tool for automatically farming Steam trading cards on multiple accounts simultaneously
+
+community
+ArchiveBox
+1.0.14
+ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view websites offline. Save pages as HTML, PDF, screenshots, W...
+
+community
+Arr Dashboard
+359
+1.0.12
+A unified dashboard for managing and monitoring media services including Sonarr, Radarr, Lidarr, Readarr, Prowlarr, Plex, Tautulli, Jellyfin, Emby, an...
+
+community
+Arti
+78
+1.3.29
+Arti is an experimental Tor implementation written in Rust, and it is designed to be modular, reusable, and easy to audit.
+
+enterprise
+Asigra DS-System
+9
+1.1.56
+DS-System software enables you to offer a robust, scalable service to multiple customers. Ease of use comes from the agentless architecture: customers...
+
+community
+AudioMuse-AI
+284
+1.0.72
+AudioMuse-AI - A self-hosted music playlist generator using sonic analysis to discover related tracks
+
+community
+Audiobookshelf
+7377
+1.6.27
+Audiobookshelf is a self-hosted audiobook and podcast server
+
+community
+Authelia
+289
+1.2.71
+The Single Sign-On Multi-Factor portal for web apps
+
+community
+Authentik
+1847
+1.3.74
+The authentication glue you need.
+
+community
+Autobrr
+776
+1.4.38
+Autobrr is the modern download automation tool for torrents and usenet.
+
+community
+Automatic Ripping Machine
+1092
+1.1.35
+Insert an optical disc (Blu-ray, DVD, CD) and checks to see if it's audio, video (Movie or TV), or data, then rips it.
+
+community
+BYB! Budget
+20
+1.0.11
+Private household envelope budgeting with integer-cent accounting.
+
+community
+Backrest
+438
+1.1.21
+Backrest is a web UI and orchestrator for restic backup.
+
+community
+Bambuddy
+387
+1.0.19
+Your Bambu Lab. No Cloud. Your Rules. Self-hosted command center for Bambu Lab - from one A1 to a 40-printer farm.
+
+community
+Baserow
+195
+1.2.74
+Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code ...
+
+community
+Bazarr
+8081
+1.3.21
+Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+
+community
+BentoPDF
+2317
+1.1.31
+A Privacy First PDF Toolkit
+
+community
+Beszel Hub
+590
+1.1.25
+Lightweight server monitoring hub with historical data, docker stats, and alerts.
+
+community
+Bichon
+282
+1.1.45
+Bichon - A lightweight, high-performance Rust email archiver with WebUI
+
+community
+Bindery
+1.0.1
+A self-hosted ebook and audiobook manager. It watches authors, searches indexers, sends grabs to a download client and imports the result into your li...
+
+community
+Bitcoin Knots
+37
+1.1.27
+Run your personal node powered by Bitcoin Knots.
+
+community
+Bitcoin Node
+162
+1.1.31
+Run your personal node powered by Bitcoin Core.
+
+community
+Bitmagnet
+466
+1.2.53
+Bitmagnet is a self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack in...
+
+community
+Blackbriar
+1.0.7
+Blackbriar is a companion app for shared Plex servers. It reads the ratings of all users and shows which titles are safe to delete once everyone who r...
+
+community
+Blinko
+143
+1.0.46
+Blinko is the next generation of open-source AI-powered card notes designed to help you quickly capture and organize inspiration so that ideas never r...
+
+community
+BookOrbit
+301
+1.0.53
+A self-hosted library management and reading platform for ebooks, PDFs, audiobooks, and comics.
+
+community
+BookStack
+496
+1.2.42
+BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information
+
+community
+Bookshelf
+609
+1.1.15
+A place for your books. users.
+
+community
+Borg UI
+1.0.1
+Borg UI is a web interface for BorgBackup to run backups, browse and restore archives, manage repositories and schedules.
+
+community
+BorgWarehouse
+145
+1.1.29
+A fast and modern WebUI for a BorgBackup's central repository server.
+
+community
+Boxarr
+247
+1.0.23
+Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases.
+
+community
+Briefkasten
+33
+1.6.48
+Briefkasten is a self hosted bookmarking app
+
+community
+Bulwark Webmail
+91
+1.0.39
+Bulwark is a modern, self-hosted webmail suite built for Stalwart Mail Server and powered by the JMAP protocol. It provides webmail, calendar, contact...
+
+community
+Byparr
+1269
+1.1.19
+Byparr is a FlareSolverr drop-in replacement with FastAPI and nodriver
+
+community
+CBZForge
+1.0.3
+CBZForge scrapes comic metadata into CBZ archives (ComicInfo.xml), converts CBR, PDF and EPUB to CBZ, and renames files into series folders.
+
+community
+Calagopus
+314
+1.0.65
+A modern game server management panel built in Rust. Deploy, monitor, and manage Minecraft, Hytale, and other game servers with industry-leading perfo...
+
+community
+Calibre
+3134
+1.2.34
+Calibre is the one stop solution for all your e-book needs.
+
+community
+Calibre Web
+2233
+2.1.21
+Calibre Web is a web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+community
+Calibre-Web Automated
+167
+1.0.9
+A web application for managing Calibre eBook libraries with automated book ingestion.
+
+community
+Cantinarr
+129
+1.0.30
+Media requests and server management in one app. Household members browse and request movies, shows, books, and music, follow downloads, and get notif...
+
+community
+CashPilot
+1.0.26
+Self-hosted dashboard that deploys passive income services as Docker containers and tracks what they earn.
+
+community
+Castopod
+8
+1.4.28
+Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience.
+
+community
+Cellarion
+1.0.6
+Cellarion is a self-hosted wine cellar manager. Track your bottles, lay them out in racks, scan labels and get drink-window advice from a shared wine ...
+
+community
+ChangeDetection.io
+589
+1.1.49
+Page change monitoring with alerts a breeze. The best way to monitor website changes.
+
+community
+Channels DVR
+156
+1.1.16
+Watch and record your favorite shows and movies from every TV and device. From your living room, second home, hotel room, or even on your commute, Cha...
+
+community
+Chaptarr
+278
+1.0.16
+A book collection manager for audiobooks and eBooks.
+
+community
+Chatwoot
+124
+1.2.74
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
+
+community
+Chia
+35
+1.3.22
+Chia is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure.
+
+community
+CineDock
+102
+1.0.40
+An enhanced, television-first browsing experience for the Emby, Jellyfin or Plex server you already run.
+
+community
+CineFind Bridge
+1.0.12
+Securely sends CineFind movie and series discoveries to private Seerr, Radarr or Sonarr servers.
+
+community
+ClamAV
+3103
+1.4.24
+ClamAV is an open source (GPLv2) anti-virus toolkit.
+
+community
+Cleanuparr
+1301
+1.1.53
+Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Delug...
+
+community
+Clonarr
+164
+1.0.17
+Sync, build and manage quality profiles and custom formats for Radarr and Sonarr - powered by TRaSH Guides.
+
+community
+CloudBeaver
+291
+1.1.36
+CloudBeaver is a Cloud Database Manager.
+
+community
+CloudGate
+1.0.11
+Publish self-hosted services through Cloudflare Tunnels and playit.gg, without port forwarding
+
+community
+Cloudflare Mesh
+1.0.9
+Cloudflare Mesh connects your private networks to Cloudflare using the Cloudflare One Client.
+
+community
+Cloudflared
+17467
+2.0.42
+Cloudflared is a client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.
+
+community
+Cloudreve
+246
+1.0.85
+Self-hosted file management and sharing system, supports multiple storage providers
+
+community
+Cockpit WS
+349
+1.1.26
+Cockpit is a web-based graphical interface for Linux servers.
+
+community
+Code Server
+2037
+1.1.57
+Code Server is VS Code in the browser
+
+stable
+Collabora
+3651
+1.5.53
+Collabora is a collaborative online office suite based on LibreOffice technology
+
+community
+Concourse
+5
+1.2.65
+Concourse is a container-based automation system written in Go.
+
+community
+Continuwuity
+194
+1.0.29
+Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
+
+community
+ConvertX
+1485
+1.1.18
+ConvertX is a self-hosted online file converter with support for over 1000 formats
+
+community
+Coolify
+109
+1.2.105
+An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+community
+Copyparty
+628
+1.1.35
+Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+
+community
+Corvus
+1.0.15
+Self-hosted reverse proxy and web application firewall with a web console
+
+community
+Crafty 4
+5008
+1.1.26
+Crafty 4 is the next iteration of our Minecraft Server Wrapper/Controller/Launcher
+
+community
+DBRepairs
+13
+1.0.28
+DBRepairs is an open-source repair shop manager for repair workshops and service centres.
+
+community
+DDNS Updater
+5084
+1.3.24
+Lightweight universal DDNS Updater with web UI
+
+community
+DNSalsa Connector
+1.0.6
+DNSalsa connector puts a service in your network online at your own dnsalsa.nl address through a Cloudflare Tunnel, paired by a short code instead of ...
+
+community
+Dashy
+1208
+2.0.78
+Dashy is a self-hostable personal dashboard built for you.
+
+community
+Databasus
+166
+1.0.66
+Databasus is a free, open source and self-hosted tool to backup databases (with focus on PostgreSQL). Make backups with different storages (S3, Google...
+
+community
+Dawarich
+732
+1.4.105
+Dawarich is a self-hostable alternative to Google Location History (Google Maps Timeline)
+
+community
+Deluge
+2415
+1.3.17
+Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+
+community
+Directus
+50
+1.2.74
+Directus is a real-time API and App dashboard for managing SQL database content.
+
+stable
+Diskover Data
+419
+1.8.34
+Diskover is used to monitor size/volumes of distributed dataset.
+
+community
+Dispatcharr
+768
+1.2.80
+Dispatcharr is an open-source powerhouse for managing IPTV streams, EPG data, and VOD content with elegance and control.
+
+community
+Distribution
+506
+1.3.23
+Distribution is a toolkit to pack, ship, store, and deliver container content
+
+community
+DockRoute
+6
+1.0.20
+DockRoute is External-DNS for plain Docker hosts. It watches running containers, reads dockroute.* labels and reconciles the matching DNS records and ...
+
+community
+DockTail
+1.0.0
+Label-based Tailscale Services for Docker containers
+
+community
+Dockge
+17271
+1.3.14
+A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+
+community
+Dockhand
+1866
+1.1.52
+Dockhand - Docker management you will like.
+
+community
+Dockpeek
+107
+1.1.15
+Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
+
+community
+Docspell
+35
+1.2.55
+Docspell assists in organizing your piles of digital documents, resulting from scanners, e-mails and other sources with minimal effort.
+
+community
+Domain Locker
+306
+1.0.73
+A self-hosted domain management dashboard. Tracks expiry, DNS records, SSL certificates, uptime and WHOIS data for domains you own.
+
+community
+Domain Watchdog
+74
+1.2.59
+An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
+
+community
+Donetick
+199
+1.1.24
+Donetick is a self-hosted to-do list and habit tracker.
+
+community
+Dozzle
+1806
+1.1.76
+Realtime log viewer for docker containers.
+
+community
+Draw.io
+1775
+1.4.66
+Draw.io is a whiteboarding / diagramming software application.
+
+community
+Dropgate Server
+76
+1.0.15
+A self-hosted, privacy-first file sharing system with both hosted upload and direct P2P transfer capabilities.
+
+community
+Duplicati
+1011
+1.1.24
+Store securely encrypted backups in the cloud!
+
+community
+ESPHome
+1509
+1.2.53
+ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation syst...
+
+community
+Ebbwell
+1.0.13
+Private, self-hosted period tracker and ovulation estimator with symptothermal rules, reminders, app lock, partner sharing, single sign-on and local a...
+
+community
+Eclipse Mosquitto
+2911
+1.2.19
+Eclipse Mosquitto is an open source MQTT broker
+
+stable
+Elastic Search
+350
+1.4.32
+Elasticsearch is the distributed, RESTful search and analytics engine at the heart of the Elastic Stack.
+
+community
+Electrs
+54
+1.1.18
+An efficient re-implementation of Electrum Server in Rust.
+
+community
+Element Web
+218
+1.1.41
+Element-Web is a glossy Matrix collaboration client for the web.
+
+stable
+Emby Server
+4791
+1.4.16
+Emby is designed to help you manage your personal media library, such as home videos and photos
+
+community
+Enclosed
+82
+1.1.16
+Enclosed is a minimalistic web app designed for sending private and secure notes.
+
+community
+EuroOffice Document Server
+141
+1.0.40
+Your sovereign office
+
+community
+Excalidraw
+662
+1.1.13
+Virtual whiteboard for sketching hand-drawn like diagrams
+
+community
+Excaliself
+1.0.8
+Excaliself is a self-hosted Excalidraw for teams. It adds accounts, live collaboration, a team space, folders, search and share links, and keeps every...
+
+community
+FCaptcha
+1.0.1
+Self-hosted CAPTCHA for web forms with a browser widget and a server-side token verification API.
+
+community
+FSCrawler
+8
+2.0.38
+FSCrawler is a crawler that helps to index binary documents such as PDF, Open Office, MS Office.
+
+community
+FUTO Notes
+13
+1.0.10
+FUTO Notes Server is a self-hosted, end-to-end encrypted sync server for FUTO Notes.
+
+community
+Factorio Server
+291
+1.1.23
+Factorio headless server in a Docker container
+
+community
+Faster Whisper
+1.0.0
+Faster Whisper is a Wyoming protocol speech-to-text server, using a fast implementation of OpenAI's Whisper model built on CTranslate2.
+
+community
+Ferret
+1.0.14
+Self-hosted home inventory for the whole family. Add things by photo, barcode or a walk through a room, find them by what they are, print QR labels, a...
+
+community
+FileBrowser Quantum
+4138
+1.1.46
+The best free self-hosted web-based file manager.
+
+community
+FileFlows
+532
+1.1.26
+FileFlows automates all file types - videos, audio, images, books - with VMAF-optimized AV1 and HEVC transcoding for top-tier quality.
+
+community
+Filehub
+1.0.6
+Filehub is a lightweight, self-hosted file manager for sharing folders among users on your own server.
+
+community
+Filestash
+580
+1.2.31
+Filestash is a file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+
+community
+Firefly III
+1303
+1.9.89
+Firefly III is a personal finances manager
+
+community
+Fireshare
+169
+1.1.50
+Share your game clips, videos, or other media via unique links.
+
+community
+Fladder
+206
+1.0.18
+A Simple Jellyfin frontend built on top of Flutter.
+
+community
+Flame
+490
+1.3.14
+Flame is a self-hosted start page for your server.
+
+community
+FlareSolverr
+7943
+1.2.19
+FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection.
+
+community
+Fliks
+3
+1.1.40
+Fliks is a self-hosted media manager and streaming server for movies and TV shows.
+
+community
+Flood
+157
+1.2.30
+A modern web UI for various torrent clients with a Node.js backend and React frontend.
+
+community
+Forgejo
+1666
+1.2.70
+Forgejo is a self-hosted lightweight software forge. Easy to install and low maintenance, it just does the job.
+
+community
+Forgejo Runner
+307
+2.0.35
+A runner for Forgejo.
+
+community
+FreeListen
+1.0.9
+Search MusicBrainz or a Spotify playlist and save tagged audio files to your library
+
+community
+FreshRSS
+958
+1.7.53
+FreshRSS is a free, self-hostable news aggregator
+
+community
+Frigate
+7465
+1.3.20
+Frigate is an NVR With Realtime Object Detection for IP Cameras
+
+community
+GPTWOL
+207
+1.0.13
+Simple Wake/Sleep On LAN Docker GUI
+
+community
+GameVault
+110
+1.0.43
+The self-hosted gaming platform for your DRM-free collection. Host your own library, track your stats, and share the experience with friends. It's lik...
+
+community
+Gameyfin
+143
+1.0.17
+Gameyfin will turn your disorganized collection of video games into a beautiful, easy-to-navigate library that you can access from any device with a w...
+
+community
+Gaseous Server
+247
+1.3.21
+This is the server for the Gaseous system. It offers ROM and title management, as well as some basic in browser emulation of those ROMs.
+
+community
+Garage
+627
+1.2.20
+An open-source distributed object storage service tailored for self-hosting.
+
+community
+Gatus
+73
+1.1.26
+Automated developer-oriented status page
+
+community
+Ghostfolio
+31
+1.0.72
+Open Source Wealth Management Software.
+
+community
+Gitea
+4397
+1.6.61
+Gitea - Git with a cup of tea
+
+community
+Gitea Act Runner
+651
+1.2.23
+A runner for Gitea based on act.
+
+community
+Glance
+239
+1.0.19
+A self-hosted dashboard that puts all your feeds in one place
+
+community
+Glances
+1644
+1.1.21
+Glances is a cross-platform system monitoring tool.
+
+community
+Globalping Probe
+45
+1.1.30
+Join the Globalping network to help run distributed network tests like ping and traceroute from your location.
+
+community
+Gotify
+359
+1.1.19
+A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
+community
+Grafana
+2695
+1.4.31
+Grafana is the open source analytics & monitoring solution for every database.
+
+community
+Gramps Web
+756
+1.4.22
+Gramps Web is a free, open-source genealogy system for building your family tree - together. Use it standalone or as a companion to Gramps Desktop, wi...
+
+community
+Grimmory
+575
+1.0.35
+Grimmory is a self-hosted application for managing your entire book collection in one place. Organize, read, annotate, sync across devices, and share ...
+
+community
+Grocy
+521
+1.1.24
+Grocy is a web-based self-hosted groceries & household management solution for your home
+
+community
+Handbrake
+2336
+2.3.23
+HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+
+community
+Handbrake Web
+484
+1.2.13
+A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work...
+
+community
+Headscale
+212
+1.1.29
+An open source, self-hosted implementation of the Tailscale control server
+
+community
+Heimdall
+1871
+1.1.26
+An Application dashboard and launcher
+
+community
+Hermes-Agent
+1524
+1.0.44
+The self-improving AI agent built by Nous Research.
+
+community
+HexOS
+1.0.0
+Everything you love, on a server you own. HexOS is a force multiplier for the TrueNAS you already run, not a replacement: install it here, claim the s...
+
+community
+HolyArrs
+1.0.6
+One self-hosted app for your shows, movies and music. It works with the download clients and media servers you already run.
+
+community
+Homarr
+3942
+2.2.64
+Homarr a modern and easy to use dashboard. 14+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+
+stable
+Home Assistant (Deprecated)
+12472
+1.8.97
+Home Assistant is an open source home automation that puts local control and privacy first.
+
+community
+Homebox
+1646
+1.1.22
+Homebox is the inventory and organization system built for the Home User!
+
+community
+Homepage
+4140
+1.3.33
+Homepage is a modern, secure, highly customizable application dashboard.
+
+community
+Homer
+419
+2.3.21
+Homer is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file.
+
+community
+Hoppscotch
+43
+1.2.68
+Hoppscotch is a lightweight, web-based API development suite.
+
+community
+HyOS - Hytale Server
+63
+1.0.25
+Hytale dedicated game server with web management UI, OAuth authentication, auto-updates, mod support, and REST API for server control.
+
+community
+I2P
+118
+1.1.20
+I2P (Invisible Internet Protocol) is a universal anonymous network layer. All communications over I2P are anonymous and end-to-end encrypted, particip...
+
+community
+IPFS
+90
+1.3.22
+Interplanetary Filesystem - the Web3 standard for content-addressing, interoperable with HTTP
+
+community
+IT Tools
+1807
+1.1.15
+Collection of handy online tools for developers, with great UX.
+
+community
+Iceberg Catalog UI
+1.0.0
+Multi-user web UI for the Apache Iceberg catalog of MinIO AIStor Tables. Browse and manage warehouses, namespaces, tables, views, snapshots and column...
+
+community
+Iconik Storage Gateway
+6
+1.1.15
+The iconik Storage Gateway (ISG) allows you to use your on-premise storage with iconik in the cloud.
+
+community
+Immich
+49890
+1.14.75
+Immich is a self-hosted photo and video backup solution directly from your mobile phone.
+
+community
+Immich Frame
+200
+1.0.17
+An awesome way to display your photos as a digital photo frame
+
+community
+Immich Kiosk
+255
+1.0.40
+Highly configurable slideshows for displaying Immich assets on browsers and devices.
+
+community
+Inbox Zero
+1.0.7
+Open source AI email assistant that organizes your inbox, drafts replies and automates email management.
+
+community
+InfluxDB
+1200
+1.2.22
+Scalable datastore for metrics, events, and real-time analytics
+
+community
+Invidious
+343
+1.7.63
+Invidious is an alternative front-end to YouTube
+
+community
+Invoice Ninja
+378
+1.3.25
+Invoices, Expenses and Tasks built with Laravel, Flutter and React
+
+community
+JDownloader2
+1693
+1.1.17
+JDownloader is a free, open-source download management tool with a huge community that makes downloading as easy and fast as it should be.
+
+community
+Jackett
+2258
+1.1.214
+API Support for your favorite torrent trackers
+
+community
+Jellyfin
+52290
+1.3.26
+Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media.
+
+community
+Jellystat
+1189
+1.2.55
+Jellystat is a free and open source Statistics App for Jellyfin
+
+community
+Jelu
+94
+1.1.29
+Jelu is a self hosted read and to-read list book tracker
+
+community
+Jenkins
+286
+1.3.25
+Jenkins is a leading open source automation server,
+
+community
+Joplin
+1570
+1.7.56
+Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device
+
+community
+KEIBIDROP
+1.0.2
+Open the folders on this NAS from your computer as if they were local, over an end-to-end encrypted peer-to-peer connection. Only the parts of a file ...
+
+community
+KTN Enclosure Manager
+1.0.4
+Physical drive-bay map, chassis telemetry and IDENT LED control for SES disk shelves attached to TrueNAS SCALE.
+
+community
+Kapowarr
+498
+1.3.16
+Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
+
+community
+Karakeep
+790
+1.2.60
+Karakeep is a self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
+community
+Kasm Workspaces
+614
+1.1.23
+Kasm Workspaces is a docker container streaming platform for delivering browser-based access to desktops, applications, and web services.
+
+community
+Kavita
+2255
+1.3.17
+Kavita is a fast, feature rich, cross platform reading server.
+
+community
+KeePass DeltaSync
+1.0.28
+End-to-end encrypted delta-sync server for KeePass kdbx databases.
+
+community
+Keeyo
+6
+1.0.15
+Keeyo is a self-hosted inventory for your hardware security keys - track which key holds which passkey, 2FA registration and TOTP.
+
+community
+Kept
+1.0.6
+Kept is a self-hosted note-taking app with checklists, labels, binders, reminders, drawings, attachments and shared notes.
+
+community
+Kerberos.io Agent
+527
+1.1.63
+An open and scalable video surveillance system for anyone making this world a better and more peaceful place.
+
+community
+Keycloak
+250
+1.2.66
+Open Source Identity and Access Management For Modern Applications and Services
+
+community
+Kimai
+167
+1.2.33
+Kimai is a web-based multi-user time-tracking application.
+
+community
+Kinora
+1.0.4
+Kinora is a self-hosted media server for your movies and series, with a friendly web client, profiles, watch parties and hardware-accelerated transcod...
+
+community
+Kinoshelf
+1.0.4
+Kinoshelf identifies the movies and series already on your disks, renames them for Plex, Jellyfin or Kodi and writes their metadata (NFO files and art...
+
+community
+KitchenOwl
+396
+1.2.57
+KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your sh...
+
+community
+Kiwix Server
+807
+1.1.16
+Kiwix Server is a ZIM compatible Web server.
+
+community
+Koel
+1.0.16
+Music streaming solution that works.
+
+community
+Kometa
+1.0.11
+A tool to give you granular control over metadata, collections, overlays, and more for your media libraries.
+
+community
+Kometa Quickstart
+1.0.14
+A full interactive environment for configuring Kometa, running built-in Kometa-Team apps, and reviewing their results.
+
+community
+Komga
+1799
+1.4.31
+Komga is a free and open source comics/mangas server.
+
+community
+Komodo
+297
+1.3.39
+Komodo is a tool to build and deploy software across many servers.
+
+community
+Kryspal Media
+1.0.9
+Kryspal Media is a self-hosted media server that stays fast on very large libraries. It plays your files in original quality and works with Emby and J...
+
+community
+LLDAP
+267
+1.1.16
+Lightweight LDAP server with built-in web interface for identity management.
+
+community
+LanCache Monolithic
+285
+1.1.15
+LanCache Monolithic is a monolithic lancache service capable of caching all CDNs in a single instance
+
+community
+LanguageTool Server
+43
+1.0.11
+Open-source grammar and style checker server.
+
+community
+LazyLibrarian
+503
+1.1.136
+LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+
+community
+Legejo
+1.0.22
+A self-hosted EPUB library with a web reader, OPDS, Kobo sync and KOReader sync.
+
+community
+Lens
+46
+1.2.36
+Lens is a collaborative CAD platform for uploading, viewing, and sharing 3D models with version control, export capabilities, and real-time collaborat...
+
+community
+LibreChat
+99
+1.2.103
+LibreChat is the ultimate open-source app for all your AI conversations, fully customizable and compatible with any AI provider — all in one sleek int...
+
+community
+LibreDB Studio
+36
+1.0.30
+LibreDB Studio is an open-source, self-hosted SQL IDE. A web-based client to browse, query, and manage your SQL databases.
+
+community
+Lidarr
+5847
+1.4.26
+Lidarr is a music collection manager for Usenet and BitTorrent users.
+
+community
+LinkBreeze
+1.0.2
+LinkBreeze is a self-hosted link-in-bio page builder. Share one page with all your links, fully themeable and multilingual.
+
+community
+Linkding
+245
+1.6.52
+Linkding is a bookmark manager that you can host yourself.
+
+community
+Linkwarden
+632
+1.2.93
+Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+
+community
+Listmonk
+111
+1.6.51
+Listmonk is a self-hosted newsletter and mailing list manager.
+
+community
+LiteLLM
+1.0.35
+OpenAI-compatible LLM gateway to manage models, virtual keys, budgets, and spend across multiple providers.
+
+community
+LocalAI
+1282
+1.1.49
+The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first.
+
+community
+LogForge Unicron
+1.0.2
+All in one UI, for Docker. Real-time logs, Interactive terminals, Custom alerts/notifications/Automations, File system access.
+
+community
+Logseq
+204
+1.3.15
+Logseq is a privacy-first, open-source platform for knowledge management and collaboration.
+
+community
+Luanti
+70
+1.1.21
+Luanti is an open source voxel game-creation platform with easy modding and game creation
+
+community
+LubeLogger
+485
+1.3.63
+LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
+
+community
+Lumen Aureum
+1.0.11
+Studio management for photographers, on a computer you own. Clients, sessions, galleries and backups, all encrypted.
+
+community
+Lyftr
+1.0.2
+Self-hosted workout, nutrition and bodyweight tracker
+
+community
+Lyrion Music Server
+577
+1.1.18
+Lyrion Music Server - controls a wide range of Squeezebox audio players
+
+community
+MKVToolNix
+401
+1.1.24
+MKVToolNix is a set of tools to create, alter and inspect Matroska files.
+
+community
+Mail Archiver
+420
+1.2.74
+Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, m...
+
+community
+Mailpit
+65
+1.1.39
+An email and SMTP testing tool with API for developers
+
+community
+Maintainerr
+952
+1.1.58
+Maintainerr is a media library maintenance tool for Plex, Jellyfin and Emby. Create custom rules to find unused media, surface it in a collection for ...
+
+community
+MakeMKV
+989
+1.1.24
+MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere
+
+community
+Many Notes
+107
+1.1.19
+Many Notes is a Markdown note-taking web application designed for simplicity! Easily create or import your vaults and organize your thoughts right awa...
+
+community
+Mariadb
+2009
+1.1.26
+MariaDB server is a community developed fork of MySQL server.
+
+community
+Mattermost
+231
+1.2.71
+Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+
+community
+MeTube
+6257
+1.4.81
+MeTube is a web GUI for youtube-dl (using the yt-dlp fork) with playlist support.
+
+community
+Mealie
+3893
+1.9.23
+Mealie is a self-hosted recipe manager and meal planner
+
+community
+Media Manager
+35
+1.2.51
+A modern selfhosted media management system for your media library
+
+community
+MediaMan
+1.0.6
+Organizes, imports and transcodes a Jellyfin media library, keeping HDR, Dolby Vision and every audio and subtitle track.
+
+community
+Mediathek
+1.0.8
+Stremio add-on for the on-demand libraries (Mediatheken) of German public broadcasters such as ARD, ZDF and ARTE, served live from the MediathekViewWe...
+
+community
+Meilisearch
+63
+1.0.37
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+community
+Memcached
+36
+1.1.25
+Memcached is a high-performance, distributed memory object caching system.
+
+community
+Memos
+346
+1.2.60
+An open-source, self-hosted note-taking service. Your thoughts, your data, your control - no tracking, no ads, no subscription fees.
+
+community
+Mempool
+24
+1.2.26
+A fully-featured Bitcoin mempool visualizer, block explorer, and API service.
+
+community
+MeshCentral
+194
+1.2.62
+A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the...
+
+community
+Messer Swipe (Swiparr)
+60
+1.0.18
+Messer Swipe is a media discovery tool featuring a swipe interface for deciding what to watch next, together, from Jellyfin, Emby, Plex, or TMDB.
+
+community
+MetaTana
+21
+1.0.19
+Clean up and complete your movie, TV, and anime library.
+
+community
+MinIO Console (Deprecated)
+417
+1.1.17
+Simple UI for MinIO Object Storage
+
+community
+MineOS
+842
+1.3.13
+MineOS is a server front-end to ease managing Minecraft administrative tasks.
+
+community
+Minecraft Server (Bedrock)
+1607
+1.2.6
+Minecraft dedicated server for Bedrock platform hosts a world for multiplayer game. Players can join the server using the Bedrock client on Desktops, ...
+
+community
+Minecraft Server (Java)
+4137
+1.15.39
+Minecraft dedicated server for Java platform hosts a world for multiplayer game. Players can join the server using the Java client on Desktops.
+
+community
+Miniflux
+155
+1.2.59
+Miniflux is a minimalist and opinionated feed reader.
+
+community
+Mkfd
+25
+1.1.19
+Mkfd is a powerful RSS feed generator supporting web scraping, API data sources, and IMAP email feeds with webhook integration.
+
+community
+MomentBackup Hub
+1.0.9
+A private overview of MomentBackup protection.
+
+community
+Monero LWS
+15
+1.2.22
+Monero LWS is a Monero light-wallet server, currently compatible with MyMonero and Edge.
+
+community
+Monero Node
+130
+1.2.25
+Monero is a private, decentralized cryptocurrency that keeps your finances confidential and secure.
+
+community
+Monero Wallet RPC
+1
+1.1.22
+A RPC server that allows interaction with Monero wallets programmatically.
+
+community
+Money
+1.0.17
+A modern, mobile-friendly frontend for Firefly III. Dashboard, forecast, transactions with keyboard shortcuts and bulk edit, budgets, bills, rules and...
+
+community
+MongoDB
+414
+1.1.33
+MongoDB is a document database designed for ease of application development and scaling.
+
+community
+Monitee Agent
+88
+1.1.27
+Monitee-agent is a android app based system monitoring tool. See https://monitee.app/get-started/
+
+community
+Mumble
+330
+1.4.17
+Mumble is a free, open source, low latency, high quality voice chat application.
+
+community
+Music Assistant
+832
+1.1.60
+Music Assistant is a music library manager for your offline and online music sources which can easily stream your favourite music to a wide range of s...
+
+community
+Mydia
+8
+1.2.63
+Your personal media companion, built with Phoenix LiveView
+
+community
+NAS Doctor
+1.0.1
+NAS Doctor is a local diagnostic and monitoring tool for your NAS.
+
+community
+NSW Game Catalog
+15
+1.0.14
+A lightweight, fast self-hosted NSW game library manager and catalog with automatic metadata parsing, multi-language support, and modern web dashboard...
+
+community
+NZBGet
+1082
+1.1.17
+NZBGet is a binary downloader, which downloads files from Usenet based-on information given in nzb files.
+
+community
+Nametag
+1.0.11
+Nametag is a personal CRM for the people in your life. Keep notes, birthdays and important dates, see how everyone is connected, and get reminders to ...
+
+community
+NasWarden
+1.0.3
+Real-time monitoring dashboard for TrueNAS SCALE with ZFS pool, dataset, disk, VM and alert overviews.
+
+community
+Navidrome
+6658
+1.3.25
+Navidrome is a personal streaming service
+
+community
+NeoGuard
+1.0.2
+100% local multi-camera AI security, person tracking, face recognition, and 48-hour unknown person logging for RTSP and ONVIF IP cameras.
+
+community
+NetBird Client
+1776
+1.1.69
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+
+community
+NetBird Server
+55
+1.0.76
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+
+community
+Netboot.xyz
+1796
+1.3.18
+netboot.xyz lets you PXE boot various operating system installers or utilities from a single tool over the network.
+
+stable
+Netdata
+6144
+1.4.29
+Real-time performance monitoring, done right!
+
+community
+Nevu
+70
+1.1.17
+Nevu is a complete redesign of Plex's UI using the plex media server API.
+
+community
+Newt
+703
+1.1.38
+Newt is a fully user space WireGuard tunnel client and TCP/UDP proxy, designed to securely expose private resources controlled by Pangolin. By using N...
+
+community
+Next Explorer
+426
+1.1.22
+A modern, self-hosted file explorer with secure access control, polished UX, and a Docker-friendly deployment story.
+
+community
+NextPVR
+106
+1.1.15
+NextPVR is a personal video recorder application, with the goal making it easy to watch or record live TV
+
+stable
+Nextcloud
+28958
+2.3.111
+A file sharing server that puts the control and security of your own data back into your hands.
+
+community
+Nextcloud
+83
+1.1.54
+A file sharing server that puts the control and security of your own data back into your hands.
+
+community
+Nexus Repository
+94
+1.0.26
+Nexus Repository Manager — open source package/repository manager (maven, npm, nuget, pypi, docker, helm, …).
+
+community
+Nexview
+22
+1.0.38
+Media discovery and request dashboard for a household. Browse new releases from TMDB, see what is already in your library, and hand requests to Radarr...
+
+community
+Nginx Proxy Manager
+20131
+1.3.20
+Expose your services easily and securely
+
+community
+Nginx Proxy Manager Plus
+1889
+1.1.28
+Nginx Proxy Manager but better!
+
+community
+NocoDB
+297
+1.2.67
+NocoDB is an open source NoCode platform that turns any database into a smart spreadsheet.
+
+community
+Node-RED
+786
+1.4.40
+Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+
+community
+Notifiarr
+255
+1.1.20
+Client for Notifiarr.com
+
+community
+NuviraHub
+1.0.2
+Your own server for NuviraHub, the open source remote desktop and remote support app for Windows, macOS and Linux. It handles signalling, the relay fo...
+
+community
+ONLYOFFICE Document Server
+1484
+1.2.61
+ONLYOFFICE Docs is an online office suite comprising viewers and editors for texts, spreadsheets and presentations and enabling collaborative editing ...
+
+community
+Octoprint
+401
+1.1.16
+Octoprint provides a snappy web interface for controlling consumer 3D printers.
+
+community
+Odoo
+539
+1.6.71
+Odoo is a suite of web based open source business apps.
+
+community
+Odysseus
+539
+1.0.11
+Odysseus is a AI Chat tool with RAG, Deep Search, Web Search, Code editing, and more. Also includes image editor, task planning & email handling. Proj...
+
+community
+Ollama
+7572
+1.2.97
+Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+
+community
+Omada Controller
+1166
+1.4.27
+Omada Controller (TP-Link) is a network management controller for TP-Link Omada Equipment
+
+community
+Omni Tools
+791
+1.1.14
+Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+
+community
+Omni TrueNAS Provider
+3
+1.0.14
+Sidero Omni infrastructure provider that provisions Talos Linux VMs on TrueNAS SCALE.
+
+community
+Omnom
+10
+1.1.14
+A web content preservation service
+
+community
+Open Speed Test
+9294
+1.1.15
+SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool
+
+community
+Open Terminal
+276
+1.0.54
+Open Terminal is a lightweight, self-hosted terminal that gives AI agents and automation tools a dedicated environment to run commands, manage files, ...
+
+community
+Open WebUI
+7292
+1.3.49
+Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, ...
+
+community
+OpenArchiver
+187
+1.2.99
+An open-source platform for legally compliant email archiving.
+
+community
+OpenClaw
+827
+1.0.78
+OpenClaw is a personal AI assistant you run on your own devices.
+
+community
+OpenCloud
+808
+1.2.65
+Excellent file management and collaboration for public authorities, providers and business - or anyone who values ease of use and digital sovereignty.
+
+community
+OpenFamily
+15
+1.0.34
+OpenFamily is an open-source, self-hosted app to organize your whole family life, shopping lists, tasks, calendar, weekly planning, recipes, meal plan...
+
+community
+OpenHabitTracker
+9
+1.0.10
+Take notes, plan tasks, track habits - free, ad-free, open source, all data on your server. Native apps for Windows, Linux, Android, iOS and macOS syn...
+
+community
+OpenHabits
+1.0.3
+A self-hosted habit tracker built around Atomic Habits. Build habits or break them, start small and grow them, and keep every device in sync with your...
+
+community
+OpenTodo
+1.0.17
+OpenTodo is a self-hosted, local-first task manager with offline sync across devices.
+
+community
+OpenUEM Server
+15
+1.0.63
+An Open-Source Unified Endpoint Manager that is self-hosted and lets you manage your IT assets thanks to its agents
+
+community
+Organizr
+246
+1.3.17
+Organizr is a HTPC/Homelab Services Organizer - Written in PHP
+
+community
+Outline
+196
+1.2.73
+Outline is the fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+
+community
+Ovumcy
+1.0.2
+Self-hosted menstrual cycle tracker. Your cycle data stays on your own server.
+
+community
+P2Pool
+18
+1.1.27
+Run your own node of P2Pool, a decentralized Monero mining pool.
+
+community
+PairDrop
+456
+1.1.15
+Transfer Files Cross-Platform. No Setup, No Signup.
+
+community
+Palworld
+1392
+1.3.15
+Palworld is a multiplayer, open-world survival crafting game where you befriend and collect mysterious creatures called "Pals".
+
+community
+Paperclip
+1.0.18
+Paperclip is an open-source control plane for AI agents. Organize agents from any provider (Claude, Codex, Gemini, Cursor and more) into a company wit...
+
+community
+Paperless AI
+1144
+1.1.21
+The most advanced AI companion for Paperless-NGX. Transform your document management with powerful AI-driven automation and insights.
+
+community
+Paperless-ngx
+7277
+1.6.91
+Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less pap...
+
+community
+Papra
+198
+1.1.28
+The minimalistic document archiving platform.
+
+community
+Passbolt
+493
+1.4.32
+Passbolt is a security-first, open source password manager
+
+community
+PeaNUT
+1291
+1.1.21
+A tiny Dashboard for Network UPS Tools
+
+community
+PeerTube
+32
+1.0.49
+Self-hosted video platform and federated video streaming server.
+
+community
+Pellu Home Server
+1.0.1
+Pellu Home Server shares the videos (and their subtitles) in the folders you choose with the Pellu apps on your phones, tablets and TV at home, as the...
+
+community
+Penpot
+336
+1.5.78
+Penpot - The open-source design tool for design and code collaboration
+
+community
+PhValheim Server
+1.0.2
+Host multiple Valheim worlds, manage mods in your browser, and keep your group's mods and settings in sync.
+
+community
+PhotoStructure
+1.0.10
+PhotoStructure is a self-hosted library for all your photos and videos
+
+stable
+Photoprism
+3601
+1.4.22
+AI-powered app for browsing, organizing & sharing your photo collection.
+
+community
+Photoview
+148
+1.2.54
+Photo gallery for self-hosted personal servers
+
+stable
+Pi-hole
+17055
+1.4.25
+DNS and Ad-filtering for your network.
+
+community
+PiGallery2
+267
+1.3.17
+PiGallery2 is a fast directory-first photo gallery website, with rich UI, optimized for running on low resource servers
+
+community
+PingKit Agent
+1.0.1
+PingKit Agent watches your own network and alerts PingKit on your iPhone when the internet goes down, a new device joins or a device goes offline.
+
+community
+Piped
+89
+1.2.55
+An alternative privacy-friendly YouTube frontend which is efficient by design.
+
+community
+Piwigo
+184
+1.4.28
+Piwigo is a photo gallery software for the web that comes with powerful features to publish and manage your collection of pictures.
+
+community
+PlainNVR
+111
+1.0.15
+Lightweight self-hosted network video recorder for RTSP cameras.
+
+community
+Planka
+545
+2.3.57
+Planka is an Elegant open source project tracking
+
+community
+Playwright
+202
+1.1.32
+Playwright enables reliable end-to-end testing for modern web apps.
+
+stable
+Plex
+41260
+1.3.28
+Plex is a media server that allows you to stream your media to any Plex client.
+
+community
+Plex Auto Languages
+354
+1.4.25
+Plex Auto Languages offer automated language selection for Plex TV Shows
+
+community
+Plex Repairman
+1.0.2
+A Discord assistant for diagnosing and repairing Plex, Sonarr and Radarr media issues, with optional Seerr requests.
+
+community
+Pocket ID
+355
+1.1.34
+Pocket ID is a simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+
+community
+Portainer
+12280
+1.7.24
+Container management made easy
+
+community
+Portainer Agent
+1.0.5
+Agent that allows a Portainer Server to manage this Docker host
+
+community
+Postgres
+3709
+1.5.53
+The PostgreSQL object-relational database system provides reliability and data integrity.
+
+community
+PowerBeacon
+17
+1.0.35
+PowerBeacon is an open-source, self-hosted centralized Wake-On-Lan (WoL) orchestration platform.
+
+community
+Poznote
+48
+1.0.83
+Poznote is a self-hosted note-taking and documentation platform.
+
+community
+PrintBuddy
+1.0.5
+One modern self-hosted dashboard for your 3D printer fleet.
+
+community
+PrintStash
+1.0.3
+Open-source, self-hosted library for 3D printing. Organize your models, keep the G-code that works, and manage your printers from one web app.
+
+community
+Profilarr
+1967
+2.0.21
+Profilarr is a Configuration Management Platform for Radarr/Sonarr
+
+stable
+Prometheus
+1700
+1.4.28
+The Prometheus monitoring system and time series database.
+
+community
+Prowlarr
+17850
+1.5.41
+Prowlarr is an indexer manager/proxy to integrate with your various PVR apps.
+
+community
+Prusa Connect
+1.0.2
+Monitor and control Prusa 3D printers from a browser, entirely on your own network.
+
+community
+Pterodactyl Panel
+297
+1.2.37
+Pterodactyl is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all ga...
+
+community
+Pulsarr
+211
+1.0.42
+Pulsarr - Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intellig...
+
+community
+Qdrant
+185
+1.0.25
+Qdrant is a vector similarity search engine and vector database. It provides a production-ready service with a convenient API to store, search, and ma...
+
+community
+RDT Client
+284
+1.1.31
+Real-Debrid Client Proxy
+
+community
+ROMarr
+1.0.6
+ROMarr is the *arr for games. Request a title and it searches your indexers through Prowlarr, sends the best release to qBittorrent, SABnzbd or NZBGet...
+
+community
+RTSP Stream Hub
+17
+1.0.10
+Lightweight web application to manage, discover via ONVIF, and transcode RTSP camera streams into browser-compatible MJPEG.
+
+community
+Rackula
+246
+1.2.38
+Drag and drop rack visualizer
+
+community
+Radarr
+21731
+1.4.33
+Radarr is a movie collection manager for Usenet and BitTorrent users.
+
+community
+Radicale
+407
+1.1.28
+Free and Open-Source CalDAV and CardDAV Server
+
+community
+Ratelog
+10
+1.0.41
+A web application to search, rate, and track movies and TV shows via TMDB.
+
+community
+Reactive Resume
+281
+1.0.74
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out to...
+
+community
+Recyclarr
+1632
+1.3.31
+Recyclarr synchronizes recommended settings from the TRaSH guides to your Sonarr/Radarr instances.
+
+community
+Redis
+1204
+1.3.29
+Redis. The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.
+
+enterprise
+Remote Assist
+2
+1.0.52
+Invite the TrueNAS team to remotely assist with your TrueNAS system.
+
+community
+Remux
+48
+1.0.30
+Remux is a self-hosted media server with a Jellyfin-compatible API that brings Stremio add-ons, local files, and WebDAV sources together under one roo...
+
+community
+Replayowl
+1.0.3
+Replayowl is a self-hosted session recording and replay tool for websites. It records page changes, clicks, scrolling, masked input and console errors...
+
+community
+Requestrr
+286
+1.1.17
+Requestrr is a Discord chatbot used to connect users to Sonarr/Radarr/Lidarr/Overseerr/Ombi!
+
+community
+Restic REST Server
+318
+1.1.16
+Rest Server is a high performance HTTP server that implements restic's REST backend API.
+
+community
+Retriever
+1.0.1
+Retriever is a yt-dlp web UI for downloading videos, playlists and channels, with channel subscriptions, a media library, Webhooks and Telegram integr...
+
+community
+Retrom
+136
+1.1.23
+A centralized game library/collection management service with a focus on emulation.
+
+community
+RomM
+2677
+1.2.70
+RomM allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, vari...
+
+community
+Rotki
+1
+1.0.14
+Rotki is an open-source portfolio tracker, accounting and analytics tool that keeps your financial data locally.
+
+community
+Roundcube
+127
+1.6.61
+Roundcube is a browser-based multilingual IMAP client with an application-like user interface.
+
+community
+Rowflare
+1.0.4
+Rowflare is an open-source Airtable alternative. Grid, kanban, calendar, timeline, gallery and form views, Airtable-compatible formulas, automations, ...
+
+community
+Rsync Daemon
+2925
+1.3.18
+Rsync is an open source utility that provides fast incremental file transfer.
+
+community
+Rust Desk
+2265
+1.7.26
+Rust Desk is an open-source remote desktop, and alternative to TeamViewer.
+
+community
+Rust Desk Relay
+936
+1.0.25
+Rust Desk is an open-source remote desktop, and alternative to TeamViewer.
+
+community
+RustFS
+1379
+1.1.46
+RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms...
+
+community
+SABnzbd
+7774
+1.3.25
+SABnzbd is an Open Source Binary Newsreader written in Python.
+
+community
+SFTPGo
+1292
+1.3.21
+SFTPGo is a fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+
+community
+STL Quest
+47
+1.0.52
+STL Quest is a private, self-hosted 3D-print request and production queue for resin and filament printers.
+
+community
+Satisfactory Server
+1056
+1.1.16
+A Dockerized version of the Satisfactory dedicated server
+
+community
+Scanvento
+1.0.17
+Scanvento is an IT asset management and discovery platform for hardware, software, licences, vulnerabilities and the asset lifecycle. Proprietary soft...
+
+community
+Scrutiny
+13681
+1.3.21
+Scrutiny is tool for Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+
+community
+Scryer
+1.0.9
+Scryer is a self-hosted media manager for movies, series, and anime.
+
+community
+Scrypted
+626
+1.1.20
+Scrypted is a high performance video integration and automation platform
+
+community
+Seafile
+198
+1.0.37
+Seafile - An open source cloud storage system with privacy preservation and teamwork features.
+
+community
+SearXNG
+3275
+1.4.160
+SearXNG is a privacy-respecting, hackable metasearch engine
+
+stable
+SeaweedFS
+236
+1.2.54
+SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!
+
+community
+SeaweedFS
+60
+1.1.54
+SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!
+
+community
+Seerr
+9816
+1.0.23
+Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+
+community
+Shelfmark
+460
+1.0.38
+Shelfmark is a self-hosted web interface for searching and downloading books and audiobooks from multiple sources.
+
+community
+Shlink
+140
+1.2.66
+The definitive self-hosted URL shortener
+
+community
+Shoko Server
+446
+1.1.15
+The All-in-One Cross-Platform Anime Management System Built For You
+
+community
+SickGear
+1.1.16
+SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+
+community
+Signal CLI REST API
+88
+1.1.21
+This project creates a small dockerized REST API around signal-cli.
+
+community
+SignalDB
+1.0.0
+SignalDB is a distributed observability signal database for metrics, logs and traces, built on Arrow/Parquet with native OTLP ingestion and Tempo API ...
+
+community
+Silo
+1.0.50
+A self-hosted media server for films, series, audiobooks, ebooks, podcasts, and manga.
+
+community
+Silo S3
+1.0.3
+Silo is a community-maintained fork of the MinIO server (maintained by PGSTY). S3-compatible object storage with the full web console, compatible with...
+
+community
+SkyView
+28
+1.0.27
+Self-hosted NVR for RTSP/ONVIF cameras with on-device AI detection
+
+community
+Smart Home Dashboard
+44
+1.0.58
+A modern smart home dashboard featuring customizable themes, Fritz!Box call monitor, and Tasmota device management.
+
+community
+SnapOtter
+383
+2.0.40
+The open-source image toolkit that makes paid tools nervous. Every image tool you need. Your images stay yours.
+
+community
+Snapshot Visualizer
+1.0.3
+Visualise ZFS snapshots like WinDirStat. A cushion treemap, a timeline and sortable tables show which datasets, snapshots and periodic snapshot tasks ...
+
+community
+SolidPing
+1.0.28
+Self-hosted uptime monitor with HTTP, TCP, UDP, ICMP, DNS, SSL, SMTP, SSH, database and browser checks, alerts, status pages and on-call, in a single ...
+
+community
+Sonarr
+21901
+1.3.42
+Sonarr is a PVR for Usenet and BitTorrent users.
+
+community
+SparkyFitness
+337
+1.0.51
+SparkyFitness is a self-hosted fitness and nutrition tracking application with AI coaching, workout logging, and health data integrations.
+
+community
+SpeedKetchup
+1.0.9
+SpeedKetchup runs periodic internet speed tests, stores the results and shows them with charts in a builtin web page.
+
+community
+Speedtest Tracker
+2248
+1.1.34
+Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+
+community
+SplitPro
+65
+1.0.49
+SplitPro is an open source alternative to Splitwise for sharing expenses with friends and groups.
+
+community
+Spoolman
+1.0.2
+Spoolman is a self-hosted web application for managing 3D printing filament spools and inventory.
+
+community
+Sportarr
+100
+1.0.22
+Sportarr is a sports PVR for Usenet and BitTorrent users. It monitors sports leagues, searches indexers for event releases, sends them to a download c...
+
+community
+Spotify to Plex
+8
+1.0.14
+A web application that synchronizes Spotify playlists with Plex and can download missing tracks through supported integrations.
+
+community
+Spottarr
+121
+1.1.21
+Spottarr is a small application that can index the spotnet messages (spots) and exposes them as a newznab indexer.
+
+community
+Stackyard
+1.0.5
+Stackyard is a self-hosted homelab dashboard. It shows your apps as a grid of tiles and folders, with widgets for media, downloads, DNS, backups, disk...
+
+community
+Stalwart
+238
+3.0.10
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+
+community
+Stash
+1600
+1.1.16
+An organizer for your NSFW materials, written in Go.
+
+community
+Steam Headless
+493
+1.1.16
+A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+
+community
+Stirling PDF
+2902
+1.1.47
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+
+community
+Storj
+499
+1.4.17
+Share your storage on the internet and earn.
+
+community
+Storyteller
+23
+1.0.19
+Storyteller is a self-hosted platform for creating and reading ebooks with synced narration.
+
+community
+Strata
+1.0.5
+Self-hosted file manager with search, previews, an xlsx and Markdown editor, a trash and per-file version history
+
+community
+SubsiMail
+15
+1.0.22
+Self-hosted cold email outreach that runs on your own server, not someone else's.
+
+community
+SuggestArr
+1.0.4
+Finds movies and TV shows similar to what you watch on Jellyfin, Plex or Emby, and requests them to Seerr automatically.
+
+community
+Sure
+536
+1.0.55
+The personal finance app for everyone.
+
+enterprise
+Syncthing
+194
+2.0.11
+Syncthing is a continuous file synchronization program.
+
+stable
+Syncthing
+17933
+1.3.24
+Syncthing is a continuous file synchronization program.
+
+community
+TFTP Server
+735
+1.3.16
+A lightweight tftp-server
+
+community
+TRAWL
+150
+1.0.33
+Self-hosted web scraping engine that bypasses JS challenges and captchas. A FlareSolverr and Byparr drop-in replacement.
+
+community
+TREK
+1.0.5
+A self-hosted, collaborative travel planner with interactive maps, itineraries, bookings, budgets, and packing lists.
+
+community
+TVHeadend
+400
+1.1.27
+TVHeadend works as a proxy server, is a TV streaming server and recorder
+
+community
+Tailscale
+60718
+1.4.30
+Secure remote access to shared resources
+
+community
+Tandoor Recipes
+432
+1.2.75
+Tandoor Recipes is an application for managing recipes, planning meals, building shopping lists and much much more!
+
+community
+Tautulli
+3941
+1.3.22
+Tautulli is a python based web application for monitoring, analytics and notifications for Plex Media Server.
+
+community
+Tdarr
+2461
+1.3.63
+Tdarr is a Distributed Transcoding System
+
+community
+Tdarr Node
+278
+1.1.62
+Tdarr Node is a Distributed Transcoding System
+
+community
+Teamspeak
+691
+1.1.19
+TeamSpeak is software for quality voice communication via the Internet.
+
+community
+Tempo AI
+1.0.2
+Tempo AI forecasts the French Tempo electricity tariff color (blue, white or red) two to four days ahead with a small local LightGBM model trained on ...
+
+community
+Termix
+479
+1.2.42
+Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+
+community
+Terraria
+325
+1.4.14
+Terraria is a land of adventure! A land of mystery! A land that's yours to shape, defend, and enjoy.
+
+community
+Terraria TShock
+42
+1.0.14
+TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
+
+community
+TeslaMate
+67
+1.0.54
+A self-hosted data logger for your Tesla
+
+community
+Tianji
+164
+1.2.102
+Tianji - Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
+
+community
+Timelinize
+35
+1.1.15
+Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+
+community
+Tiny Media Manager
+535
+1.3.26
+Tiny Media Manager is a media management tool written in Java/Swing.
+
+community
+TinyAuth
+87
+1.1.28
+The simplest way to protect your apps with a login screen.
+
+community
+Toparr
+269
+1.0.17
+Real-time Intel GPU monitoring dashboard with live-updating gauges, sparkline history, and per-process GPU client tracking.
+
+community
+Traccar
+286
+1.2.64
+Traccar GPS Tracking System
+
+community
+Tracearr
+560
+1.2.97
+Tracearr is a streaming access manager for Plex, Jellyfin and Emby servers.
+
+community
+Tracefinity
+33
+1.0.16
+Generate custom 3D-printable Gridfinity bins from photos of your tools using AI
+
+community
+Traefik
+508
+1.0.44
+The Cloud Native Application Proxy
+
+community
+Transmission
+4601
+1.3.23
+Transmission is designed for easy, powerful use.
+
+community
+TravelBuff
+41
+1.0.19
+Self-hosted, offline-first travel planner, location tracker, and itinerary manager.
+
+community
+Trilium Notes
+749
+1.1.25
+Trilium Notes is a free and open-source, cross-platform hierarchical note taking application with focus on building large personal knowledge bases.
+
+community
+Tube Archivist
+550
+1.2.40
+Your self hosted YouTube media server
+
+community
+TubeHaus
+1.0.10
+Your own YouTube for the household, without ads, tracking or a Google account
+
+community
+Tuwunel
+1.0.3
+Tuwunel, the high performance Matrix homeserver written in Rust. It is the successor to Conduit & Conduwuit, maintained by the author of Conduit.
+
+community
+Twingate Connector
+337
+1.1.26
+Identity-based access for users, services, and AI agents that deploys in minutes, scales to every resource, and finally lets you retire your VPN.
+
+community
+Ultra Explorer
+1.0.26
+A file explorer for cloud storage and NAS folders, built on rclone.
+
+community
+Umami
+163
+1.2.58
+Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+
+community
+UmlautAdaptarrEX
+18
+1.0.14
+UmlautAdaptarrEX presents itself to the *arrs as an indexer, sits between the *arrs and the real indexers, and corrects both searches and results so t...
+
+community
+UniHub
+1.0.7
+Self-hosted mail, contacts, calendars, tasks and recordings.
+
+community
+Unifi Controller
+3408
+2.1.25
+Unifi Controller is a network management controller for Unifi Equipment.
+
+community
+Unifi Protect Backup
+32
+1.3.16
+Unifi Protect Backup is a python based tool for backing up UniFi Protect event clips as they occur.
+
+community
+Unmanic
+284
+1.1.17
+Unmanic is a library optimizer
+
+community
+Unpackerr
+1512
+1.1.22
+Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
+
+community
+Uptime Kuma
+4838
+1.2.30
+A fancy self-hosted monitoring tool
+
+community
+UrBackup
+2177
+1.1.13
+UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safe...
+
+community
+Vane
+47
+1.0.10
+Vane is a privacy-focused AI search engine that runs locally, combining web search with LLMs to deliver cited answers.
+
+community
+VaultBridge
+1
+1.0.14
+Self-hosted knowledge search for Markdown vaults with local semantic indexing, REST/MCP access, and a web dashboard.
+
+community
+Vaultwarden
+8050
+1.6.57
+Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients.
+
+community
+Versity Gateway
+99
+1.1.26
+The Versity Gateway serves as a bridge between file based, POSIX, storage systems and applications that rely on S3 object interfaces. It enables appli...
+
+community
+ViTransfer
+32
+1.2.91
+ViTransfer - Professional video review and approval platform for filmmakers
+
+community
+Vikunja
+876
+2.0.94
+Vikunja is an open-source, self-hostable to-do app.
+
+community
+WAHA
+1.0.2
+WhatsApp HTTP API (REST API) that you can configure in a click, with multiple engines (WEBJS, NOWEB, GOWS), a built-in dashboard and webhooks.
+
+stable
+WG Easy
+7247
+2.1.16
+WG-Easy is the easiest way to install & manage WireGuard!
+
+community
+Wardrowbe
+1.0.1
+Self-hosted AI-powered wardrobe manager with outfit suggestions based on weather and occasion.
+
+community
+Warracker
+247
+1.2.52
+Warracker is an open-source web application to manage product warranties, track expiration dates, and store related documents.
+
+community
+Wealthfolio
+210
+1.0.24
+Wealthfolio is an open-source, private portfolio tracker for investments, net worth, spending, and simulations. All data is stored locally with no clo...
+
+community
+WebDAV
+2215
+1.3.26
+WebDAV is a set of extensions to the HTTP protocol which allows users to collaboratively edit and manage files on remote web servers.
+
+community
+Wger
+320
+2.0.47
+Wger is a self hosted FLOSS fitness/workout, nutrition and weight tracker
+
+community
+Whoogle
+211
+1.3.17
+Whoogle is a self-hosted, ad-free, privacy-respecting metasearch engine
+
+community
+Wiki.js
+626
+2.0.16
+Wiki.js is a modern and powerful wiki app built on Node.js.
+
+community
+Windmill
+73
+1.2.216
+Open-source developer platform and workflow engine
+
+community
+Wizarr
+708
+1.1.24
+Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
+
+community
+Wondarr
+1.0.3
+An *arr for single songs. Finds each song on Soulseek, YouTube Music, torrents and usenet, checks it is the right recording and files it into your mus...
+
+community
+Woodpecker CI
+28
+1.2.66
+Woodpecker CI is a simple, yet powerful CI/CD engine with great extensibility.
+
+community
+WordPress
+1842
+1.4.37
+WordPress is a web content management system
+
+community
+Wyoming Piper
+1.0.5
+Piper is a Wyoming protocol text-to-speech server, using a fast and local neural text to speech system.
+
+community
+Wyze Bridge
+314
+1.1.15
+Create a local WebRTC, RTSP, RTMP, or HLS/Low-Latency HLS stream for most of your Wyze cameras
+
+community
+XMRig
+43
+1.0.15
+A high performance, open source CPU/GPU miner.
+
+community
+Yamtrack
+175
+1.2.63
+A self hosted media tracker.
+
+community
+Yuvomi
+434
+1.0.109
+Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
+
+community
+Z-Wave JS UI
+165
+1.1.44
+Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify
+
+community
+Zabbix
+366
+1.0.62
+The universal, open-source observability solution for IT & OT
+
+community
+Zammad
+65
+1.2.127
+Zammad is a web based open source helpdesk/customer support system.
+
+community
+Zerobyte
+107
+1.1.48
+Backup automation for self-hosters
+
+community
+Zerotier
+2149
+1.3.15
+Securely connect any device, anywhere.
+
+community
+Zigbee2MQTT
+785
+1.1.35
+Zigbee to MQTT bridge get rid of your proprietary Zigbee bridges
+
+community
+Zipline
+228
+1.2.68
+Zipline The next generation ShareX / File upload server.
+
+community
+Zoraxy
+408
+1.1.18
+A general purpose HTTP reverse proxy and forwarding tool.
+
+community
+arrVantage
+43
+1.0.24
+A unified web dashboard for your media automation stack - arr apps, indexers, media servers, downloaders, and transcoders, all in one place.
+
+community
+autoxpose
+84
+1.1.22
+Automatic DNS and reverse proxy configuration for Docker containers.
+
+community
+bananana brain
+1.0.5
+Your own control room for servers, Macs and PCs, reached from anywhere at your-name.bananana.dev without opening ports.
+
+community
+evcc
+180
+1.0.56
+evcc is an extensible EV Charge Controller and Home Energy Management System with support for solar charging.
+
+community
+filex
+1.0.6
+filex is a self-hosted file manager with a web UI for local folders, S3, SFTP, WebDAV, FTP and SMB storage, with share links, trash and versions, and ...
+
+community
+ihasmail
+1.0.15
+Immutable webmail for Stalwart Mail Server. Mail, calendars, contacts, files and filters in one app, talking only JMAP, with no database and nothing o...
+
+community
+llms.py
+70
+1.1.50
+A lightweight OpenAI-compatible gateway for multiple LLM providers with web UI and analytics dashboard.
+
+community
+mitmproxy
+89
+1.1.18
+mitmproxy is your swiss-army knife for debugging, testing, privacy measurements, and penetration testing.
+
+community
+n8n
+5103
+1.10.182
+n8n is an extendable workflow automation tool.
+
+community
+nexbeat
+1.0.21
+Find music and request it from Lidarr. Recommends artists from what the library already holds, browses genres, searches MusicBrainz for artists and re...
+
+community
+nexbooks
+1.0.4
+Your e-books and audiobooks on your own server. Read and listen in the browser, with one book holding all its editions, a shelf for each genre, pages ...
+
+community
+nexbrand
+1.0.12
+The corporate design of your clients in one place, on your own server. Colours with print values, fonts with their licence, logos, a type scale, rules...
+
+community
+nexcanvas
+1.0.16
+A whiteboard for your own server, in the spirit of Apple Freeform. Sticky notes, shapes, text, lines, pen and highlighter, photos and PDFs on an endle...
+
+community
+nexcrate
+1.0.38
+Movies, shows and music in one app, in place of Radarr, Sonarr and Lidarr. A movie or a show can have several versions, such as Full HD and 4K, each w...
+
+community
+nexdeck
+3
+1.0.53
+Live dashboard for the homelab. Cards show what Proxmox, Docker, the media and download stack, DNS filters, backups and many more services are doing r...
+
+community
+nexdiary
+1.0.16
+A diary for the family on your own server. Jot notes down during the day, write the page in the evening. Encrypted per person, with a second factor, s...
+
+community
+nexlore
+1.0.23
+Notes for your own server, in the browser. Markdown files on your disk, written in a WYSIWYG editor, linked with wiki links and backlinks, and laid ou...
+
+community
+nexmail
+4
+1.0.36
+Self-hosted email client in the browser. Brings several IMAP mailboxes together in one window, with a calendar over CalDAV, address books over CardDAV...
+
+community
+nexpaper
+1.0.24
+Paperless-ngx for the home, the simple version. A filing cabinet for the papers of a household or a small firm on your own server. Upload, find, done,...
+
+community
+nexpulse
+1.0.18
+Speed test tracker for the homelab. Measures on a schedule with Cloudflare, LibreSpeed or optionally Ookla, shows every test live, keeps the history w...
+
+community
+nexsift
+1.0.15
+The filter for your homelab's notifications. Services report to nexsift instead of to your phone, through doors that answer like Gotify, ntfy, a Disco...
+
+community
+nextasks
+1.0.8
+Tasks for families and small groups on your own server. Spaces with members and lists, due dates and repeats, tasks assigned to several people, report...
+
+community
+nextime
+1.0.2
+A calendar for families and small groups on your own server. Own calendars shared with members and guests, iCloud, Google and CalDAV accounts read and...
+
+community
+nextrmnl
+1.0.16
+SSH and SFTP in the browser for the machines in your own network. A terminal with tabs, jump hosts and copy and paste like PuTTY, file transfer next t...
+
+community
+ntfy
+700
+1.1.40
+ntfy (pronounced "notify") is a simple HTTP-based pub-sub notification service.
+
+community
+nzbfast
+28
+1.0.23
+nzbfast is a speed-focused Usenet (NZB) downloader with a web dashboard and a SABnzbd-compatible API.
+
+community
+openGym
+1.0.3
+Self-hosted gym and body-weight tracker. Plan routines, log workouts including supersets and cardio, track weight and progress, sign in with passkeys.
+
+community
+pgAdmin
+1487
+1.3.22
+pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL
+
+community
+plMail
+1.0.34
+Self-hosted mail client with a calendar beside it. Reads the IMAP, Gmail and Outlook mailboxes you already have in one inbox.
+
+community
+portracker
+1083
+1.1.26
+A self-hosted, real-time port monitoring and discovery tool.
+
+community
+qBittorrent
+21617
+1.4.24
+The qBittorrent project aims to provide an open-source software alternative to mTorrent.
+
+community
+qui
+841
+1.1.40
+Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
+
+community
+sacdfs
+1.0.5
+sacdfs serves SACD disc images (ISO files) as DSF and WAV files, over SMB and NFS, so music servers and players can read them like ordinary albums
+
+community
+slskd
+488
+1.1.20
+A modern client-server application for the Soulseek file-sharing network.
+
+community
+stdapi.ai
+2
+1.0.31
+OpenAI and Anthropic compatible API gateway for Amazon Bedrock, in your own AWS account. Not just chat: images, speech, embeddings, rerank and batch. ...
+
+community
+tModLoader
+1.0.8
+Modded Terraria server with a web dashboard, Workshop management, backups and runtime updates.
+
+community
+vLLM
+47
+1.0.32
+vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs with an OpenAI-compatible API.

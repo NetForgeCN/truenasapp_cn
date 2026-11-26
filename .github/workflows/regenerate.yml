@@ -1,0 +1,42 @@
+name: 更新应用页面
+
+# 当英文原始清单、中文详解库或生成脚本变动时，自动重新生成并发布 index.html
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'raw_apps.txt'
+      - 'data/translations.json'
+      - 'scripts/generate.py'
+      - '.github/workflows/regenerate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 生成页面
+        run: python3 scripts/generate.py
+
+      - name: 提交生成结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "页面内容无变化，无需提交"
+          else
+            git commit -m "chore: 根据英文原始清单更新 index.html [skip ci]"
+            git push
+          fi
